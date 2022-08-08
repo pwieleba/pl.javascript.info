@@ -4,11 +4,11 @@ importance: 4
 
 # Filter range
 
-Write a function `filterRange(arr, a, b)` that gets an array `arr`, looks for elements between `a` and `b` in it and returns an array of them. 
+Napisz funkcję `filterRange(arr, a, b)` która bierze tablicę (array) `arr`, szuka w niej elementów pomiędzy `a` i `b` i zwraca ich tablicę. 
 
-The function should not modify the array. It should return the new array.
+Funkcja nie powinna zmieniać tablicy. Powinna ona zwracać nową tablicę.
 
-For instance:
+Dla przykładu:
 
 ```js
 let arr = [5, 3, 8, 1];
